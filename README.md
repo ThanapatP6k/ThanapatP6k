@@ -1,4 +1,4 @@
-Software, Machine Learning, Full-Stack, or Biomedical Engineering to apply my skills in Powershell, VueJS, Python, and Machine Learning.
+Software, Machine Learning, Full-Stack, or Biomedical Engineering to apply my skills in Powershell, VueJS, Python, and Typescript.
 
 Experienced in robotics, AI model generation and training, diagnosing and analyzing data, troubleshooting, and SQL databases. Strong communicator, collaborator, and result-driven team player.
 <!---
